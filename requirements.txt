@@ -2,3 +2,7 @@ langchain-community
 openai
 langgraph
 python-dotenv
+langgraph
+pinecone
+pymupdf
+tiktoken
